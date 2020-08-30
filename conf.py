@@ -6,6 +6,6 @@ username = "root",
 password = "pvi@2020",
 database = "ticketReservation"
 )
-#mypointer = mydatabase.cursor()
+mypointer = mydatabase.cursor()
 
 
